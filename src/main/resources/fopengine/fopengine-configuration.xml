@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration xsi:noNamespaceSchemaLocation="../../../main/resources/GeneratorConfiguration.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" artifact="test-genera" project-name="testProject 2" group="de.irs.fopengine" version="0.01" self-contained="false">
+<Configuration xsi:noNamespaceSchemaLocation="../../../main/resources/GeneratorConfiguration.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" artifact="test-genera" project-name="testProject 2" group="de.irs.fopengine" version="0.01"  description="This is a great project 2" self-contained="false">
 	<Userconfig>
 		<File file-name="userconfig.xml" target-path="conf"/>
 	</Userconfig>
